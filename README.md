@@ -1,30 +1,39 @@
-👋 Hi, I'm Yasmin El Sherif
+د👋 Hi, I'm Yasmin El Sherif  
 
-🚀 Software Developer | 🤖 AI & 🌐 Frontend Developer
+🚀 Software Developer | 🤖 AI & 🌐 Frontend Developer  
 
-💡 About Me
+💡 About Me  
 
-🤖🌐 I’m passionate about combining Artificial Intelligence with Frontend Development to build smart, interactive, and impactful web applications.
+🤖🌐 I’m passionate about building intelligent web applications where Artificial Intelligence meets Frontend Development. I enjoy creating systems that don’t just work, but understand users and respond intelligently.
 
-💡 I believe the real power of technology is not only in making systems intelligent, but in making that intelligence accessible and easy for users to experience.
+🤖 I’m currently learning AI through real-world projects, focusing on building chatbots and training simple models that can process and respond to user input. For example, I experiment with simple logic like:
 
-🔥 I enjoy transforming ideas into real products where intelligent systems meet clean, responsive, and engaging interfaces.
+`if "hello" in user_input: return "Hi!"`
 
-🛠️ Tech Stack
+💡 My focus is on Natural Language Processing (NLP) and integrating AI into web applications to create real-time interactive systems. I work on connecting backend intelligence with frontend interfaces using API calls like:
 
-- HTML, CSS, JavaScript  
-- Python (AI Basics)
+`fetch("/chat", { method: "POST", body: userInput })`
 
-📌 Projects
+🔥 I enjoy transforming AI logic into real user experiences, where intelligent systems are accessible through clean, responsive, and interactive interfaces.
 
-- 🤖 AI-powered Web Applications  
-- 🌐 Interactive Frontend Projects  
+🛠️ Tech Stack  
 
-🚀 Goals
+- HTML, CSS, JavaScript, React  
+- Python (AI, NLP)  
+- API Integration 
+- Python → NLP → Chatbot 
+- Frontend → Integration → Voice
 
-💡 To create smart digital solutions where AI meets user experience in a simple and powerful way.
+📌 Projects  
 
-✨ Motivation
+- 🤖 AI Chatbot (basic conversational system)  
+- 🌐 AI-integrated Web Interfaces  
 
-“Build intelligent systems. Deliver simple experiences.”
-🚀 Learn. Build. Grow. Repeat.
+🚀 Goals  
+
+💡 To build intelligent systems that can understand users, respond naturally, and create seamless digital experiences.
+
+✨ Motivation  
+
+“Build the brain with AI, and give it a voice through Frontend.”  
+🚀 Learn. Build. Evolve. Repeat.
