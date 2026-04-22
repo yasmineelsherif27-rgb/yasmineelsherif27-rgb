@@ -1,4 +1,4 @@
-د👋 Hi, I'm Yasmin El Sherif  
+👋 Hi, I'm Yasmin El Sherif  
 
 🚀 Software Developer | 🤖 AI & 🌐 Frontend Developer  
 
