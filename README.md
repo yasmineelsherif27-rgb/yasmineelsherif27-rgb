@@ -115,13 +115,9 @@ I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about
 
 
 # 📊 GitHub Stats
-
-
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=radical&hide_border=false"/>
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 
 </p>
 
@@ -130,22 +126,18 @@ I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about
 
 
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical&border=7F3FBF&background=0D1117"/>
-
-</p>
 
 
 
 ---
 
-# 💻 Most Used Languages
+# 💻 Most Used Languages  # 🔥 GitHub Streak
 
 
 <p align="center">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical&border=7F3FBF&background=0D1117"/>
 
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
 
