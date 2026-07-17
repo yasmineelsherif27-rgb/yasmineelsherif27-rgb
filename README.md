@@ -1,113 +1,202 @@
 <!-- ============================= -->
-<!--        PROFILE HEADER         -->
+<!--            HEADER             -->
 <!-- ============================= -->
 
-<table>
-<tr>
-<td width="65%">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="180"/>
 
 <h1>
-Hi 👋, I'm Yasmine Elsherif
+Yasmine Elsherif
 </h1>
 
 <h3>
 AI Engineer | Backend Developer | Deep Learning Enthusiast
 </h3>
 
-<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Deep+Learning+Enthusiast;Backend+Developer;Building+AI+Powered+Solutions"/>
 
-🎓 Computer Science Student @ Zagazig University  
-<br>
-🤖 Artificial Intelligence & Deep Learning Enthusiast  
-<br>
-💻 Backend Developer using Python & FastAPI  
-<br>
-🧠 Huawei ICT Academy Trainee  
-<br>
-👩‍💻 College Leader @ Deep Dive Community  
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=yasmineelsherif27-rgb&label=Profile%20Views&color=blue&style=flat"/>
-
-</td>
-
-<td width="35%">
-
-<img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="220"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I'm **Yasmine Elsherif**, an Artificial Intelligence Engineer and Backend Developer passionate about designing intelligent systems and building real-world AI applications.
+```python
+class Yasmine:
 
-My current focus:
+    role = "AI Engineer & Backend Developer"
 
-- 🧠 Machine Learning & Deep Learning
-- 👁 Computer Vision
-- 💬 Natural Language Processing
-- ⚡ Backend Engineering
-- 🔗 AI Model Integration
+    education = "Computer Science Student @ Zagazig University"
 
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Backend Development"
+    ]
 
-I enjoy building solutions that combine:
+    currently_learning = [
+        "Advanced Deep Learning",
+        "FastAPI",
+        "AI System Design"
+    ]
 
-**AI Models + Backend APIs + Real World Impact**
+    goal = "Building intelligent solutions with AI"
 
 
 ---
 
-## 🧠 Artificial Intelligence Skills
+## 📚 Currently Learning
 
 
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
-
-</p>
-
-
----
-
-## ⚙️ Backend Development
-
-
-<p>
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-2563EB?style=for-the-badge"/>
 
 </p>
 
 
 ---
 
-# 🛠 Tech Stack
+## 💡 Areas of Interest
 
-
-### Languages
 
 ```text
-Python
-C++
-JavaScript
+🤖 Artificial Intelligence
+
+🧠 Deep Learning
+
+👁 Computer Vision
+
+💬 Natural Language Processing
+
+⚡ AI Agents
+
+🔗 AI Backend Integration
+
+🌐 Intelligent Web Applications
+
+
+---
+
+## 🏆 GitHub Trophies
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yasmineelsherif27-rgb&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+
+---
+
+## 📈 GitHub Activity
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&theme=tokyo-night"/>
+
+</p>
+
+
+---
+
+## 🔥 GitHub Streak
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+## 🧩 Skills Overview
+
+
+```yaml
+AI:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - Natural Language Processing
+  - Generative AI
+
+Backend:
+  - Python
+  - FastAPI
+  - REST APIs
+  - Database Integration
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
+  - Jupyter Notebook
+
+Concepts:
+  - Data Structures
+  - Algorithms
+  - Software Engineering
+
+
+
+</div>
+
+
+---
+
+# 🧠 AI Philosophy
+
+
+<p align="center">
+
+"AI is not just about models,  
+it's about creating intelligent solutions  
+that solve real problems."
+
+</p>
+
+
+---
+
+# 🛠️ Development Workflow
+
+
+```text
+💡 Idea
+
+    ↓
+
+📊 Data Collection & Analysis
+
+    ↓
+
+🧠 Model Development
+
+    ↓
+
+⚙️ Backend Integration
+
+    ↓
+
+🚀 Deployment
+
+    ↓
+
+🌍 Real World Impact
