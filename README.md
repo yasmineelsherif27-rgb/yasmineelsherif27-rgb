@@ -55,79 +55,30 @@
 
 ---
 
-# Experience & Activities 🏆
-
-
-### 🏢 Petrojet Internship
-
-- Completed an internship at **Petrojet**.
-- Gained practical experience in a professional work environment.
-- Learned about engineering workflows, teamwork, and project-based problem solving.
-- Improved communication skills and understanding of industry standards.
-
-
----
-
-### 🤖 Huawei ICT Academy Trainee - Zagazig University
-
-- Participating in Huawei ICT Academy programs.
-- Developing technical skills in modern technologies and Artificial Intelligence.
-
-
----
-
-### 👩‍💻 Deep Dive Community - College Leader
-
-- Supporting technical activities and teamwork.
-- Helping organize learning activities and community initiatives.
-
-
----
-
-### 🎯 AI & Innovation Activities
-
-- Participated in AI and technology-related competitions.
-- Interested in developing innovative solutions using Artificial Intelligence.
-
-
-
----
-
 # Projects 🚀
 
 
-### 🤖 AI Projects
+### 💳 Credit Card Fraud Detection
 
-Building intelligent applications using:
+Machine Learning project for detecting fraudulent transactions.
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
+**Tech:** Python - Pandas - Scikit Learn - Logistic Regression
 
 
 ---
 
-### ⚙️ Backend Applications
+### 🚦 IntelliTraffic AI
 
-Developing backend systems using:
+AI-based traffic monitoring system using Computer Vision.
 
-- Python
-- FastAPI
-- REST APIs
-- Database Integration
+**Tech:** YOLO - OpenCV - Raspberry Pi
 
 
 ---
 
-### 🌐 AI Powered Applications
+### ♻️ Smart Waste Reporting System
 
-Creating solutions that combine:
-
-- AI Models
-- Backend Systems
-- Real-world Applications
-
+AI solution for smart waste management.
 
 
 ---
@@ -183,20 +134,27 @@ Creating solutions that combine:
 
 ---
 
+# Experience & Activities 🏆
+
+
+- 🤖 Huawei ICT Academy Trainee - Zagazig University
+- 👩‍💻 College Leader @ Deep Dive Community
+- 🎯 AI & Innovation Competitions Participant
+- 🚀 Building AI solutions for real-world problems
+
+
+---
+
 # Pinned Projects 📌
 
 
 <a href="https://github.com/yasmineelsherif27-rgb">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasmineelsherif27-rgb&repo=CreditCardFraudDetection&theme=radical"/>
-
 </a>
 
 
 <a href="https://github.com/yasmineelsherif27-rgb">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasmineelsherif27-rgb&repo=IntelliTraffic-AI&theme=radical"/>
-
 </a>
 
 
