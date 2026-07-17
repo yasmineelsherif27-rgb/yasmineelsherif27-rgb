@@ -175,7 +175,11 @@ I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about
 
 </p>
 
+<p align="center">
 
+<img src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
