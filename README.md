@@ -53,15 +53,37 @@ AI Engineer | Backend Developer | Deep Learning Enthusiast
 
 I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about building intelligent systems and real-world AI applications.
 
-My interests:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 👁 Computer Vision
-- 💬 Natural Language Processing
-- ⚙️ Backend Engineering
+### 🏢 Petrojet Internship
 
+- Completed an internship at **Petrojet**.
+- Gained practical experience in a professional work environment.
+- Learned about engineering workflows, teamwork, and project-based problem solving.
+- Improved communication skills and understanding of industry standards.
+
+
+---
+
+### 🤖 Huawei ICT Academy Trainee - Zagazig University
+
+- Participating in Huawei ICT Academy programs.
+- Developing technical skills in modern technologies and Artificial Intelligence.
+
+
+---
+
+### 👩‍💻 Deep Dive Community - College Leader
+
+- Supporting technical activities and teamwork.
+- Helping organize learning activities and community initiatives.
+
+
+---
+
+### 🎯 AI & Innovation Activities
+
+- Participated in AI and technology-related competitions.
+- Interested in developing innovative solutions using Artificial Intelligence.
 
 ---
 
