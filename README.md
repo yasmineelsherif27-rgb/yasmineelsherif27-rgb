@@ -2,12 +2,10 @@
 <!--        HEADER SECTION         -->
 <!-- ============================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="1%" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Yasmine Elsherif
-</h1>
+
 
 <h3 align="center">
   AI Engineer | Backend Developer | Deep Learning Enthusiast
@@ -245,6 +243,4 @@ AI-powered system for smart waste management and environmental solutions.
 </h3>
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
-</p>
+
