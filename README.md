@@ -164,8 +164,68 @@ AI Engineer • Backend Developer • Machine Learning Enthusiast
 
 ---
 
-# 📈 GitHub Activity Graph
+
+---
+
+# 🐍 Contribution Snake
+
+> **ملاحظة:** سيعمل بعد إضافة GitHub Actions (سنضيف ملف `snake.yml` بعد ذلك).
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&theme=react-dark"/>
+  <img src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🤖 Build production-ready AI applications
+- 🧠 Master Machine Learning & Deep Learning
+- ⚡ Develop scalable APIs using FastAPI
+- ☁ Learn MLOps & Cloud Deployment
+- 🏆 Contribute to Open Source
+- 💼 Secure an AI/Backend Internship
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-E91E63?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+<p align="center">
+
+> **"Artificial Intelligence is not replacing humans. It is empowering them."**
+
+</p>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<p align="center">
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
 </p>
