@@ -1,65 +1,145 @@
-<div align="center">
+<!-- ============================= -->
+<!--            HEADER             -->
+<!-- ============================= -->
 
-<img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="220"/>
+<table>
+<tr>
+
+<td width="65%">
 
 <h1>
-Yasmine Elsherif
+Hi 👋, I'm Yasmine Elsherif
 </h1>
 
 <h3>
 AI Engineer | Backend Developer | Deep Learning Enthusiast
 </h3>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F3FBF&width=550&lines=Artificial+Intelligence+Engineer;Deep+Learning+Enthusiast;Backend+Developer;Building+AI+Powered+Solutions"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Deep+Learning+Enthusiast;Backend+Developer;Building+AI+Powered+Solutions"/>
+
+<p>
+
+🎓 Computer Science Student @ Zagazig University  
+<br>
+🤖 Artificial Intelligence & Deep Learning Enthusiast  
+<br>
+💻 Backend Developer using Python & FastAPI  
+<br>
+🧠 Huawei ICT Academy Trainee  
+<br>
+👩‍💻 College Leader @ Deep Dive Community  
+
+</p>
+
+</td>
 
 
-</div>
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="250"/>
+
+</td>
+
+</tr>
+</table>
+
 
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 Computer Science Student @ Zagazig University
 
-🤖 AI Engineer interested in Machine Learning & Deep Learning
+I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about building intelligent systems and real-world AI applications.
 
-💻 Backend Developer using Python & FastAPI
+My interests:
 
-🧠 Huawei ICT Academy Trainee
-
-👩‍💻 College Leader @ Deep Dive Community
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 👁 Computer Vision
+- 💬 Natural Language Processing
+- ⚙️ Backend Engineering
 
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,tensorflow,pytorch,opencv,fastapi,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,tensorflow,pytorch,opencv,fastapi,flask,mysql,git,github,vscode"/>
 
 </p>
 
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
+
+</p>
+
+
+
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
 
-### 💳 Credit Card Fraud Detection
+## 💳 Credit Card Fraud Detection
 
-Machine Learning model for detecting fraudulent transactions.
+Machine Learning system for detecting fraudulent transactions.
 
-### 🚦 IntelliTraffic AI
+**Technologies:**
 
-Computer Vision based traffic monitoring system.
+`Python` `Pandas` `Scikit-Learn` `Logistic Regression`
 
-### ♻️ Smart Waste Reporting System
+
+---
+
+## 🚦 IntelliTraffic AI
+
+AI-based smart traffic monitoring system.
+
+**Technologies:**
+
+`YOLO` `OpenCV` `Computer Vision` `Raspberry Pi`
+
+
+---
+
+## ♻️ Smart Waste Reporting System
 
 AI solution for smart waste management.
+
+
+---
+
+# 🏆 Experience & Activities
+
+
+🎓 Computer Science Student - Zagazig University
+
+<br>
+
+🤖 Huawei ICT Academy Trainee
+
+<br>
+
+👩‍💻 College Leader @ Deep Dive Community
+
+<br>
+
+🚀 AI & Innovation Competitions Participant
+
 
 
 ---
@@ -74,6 +154,7 @@ AI solution for smart waste management.
 </p>
 
 
+
 ---
 
 # 🔥 GitHub Streak
@@ -84,6 +165,7 @@ AI solution for smart waste management.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical&border=7F3FBF&background=0D1117"/>
 
 </p>
+
 
 
 ---
@@ -98,6 +180,7 @@ AI solution for smart waste management.
 </p>
 
 
+
 ---
 
 # 👤 Profile Details
@@ -108,6 +191,7 @@ AI solution for smart waste management.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmineelsherif27-rgb&theme=radical"/>
 
 </p>
+
 
 
 ---
@@ -122,6 +206,7 @@ AI solution for smart waste management.
 </p>
 
 
+
 ---
 
 # 🐍 Contribution Snake
@@ -134,13 +219,14 @@ AI solution for smart waste management.
 </p>
 
 
+
 ---
 
 # 🌱 Currently Learning
 
 
 ```text
-🧠 Deep Learning
+🧠 Advanced Deep Learning
 
 🤖 Generative AI
 
@@ -149,3 +235,5 @@ AI solution for smart waste management.
 ⚡ AI Agents
 
 ⚙️ AI Backend Systems
+
+🚀 Model Deployment
