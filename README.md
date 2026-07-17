@@ -28,17 +28,14 @@ AI Engineer | Backend Developer | Deep Learning Enthusiast
 
 </p>
 
-</td>
+
 
 
 <td width="35%" align="center">
 
 <img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="250"/>
 
-</td>
 
-</tr>
-</table>
 
 
 
@@ -100,14 +97,7 @@ I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about
 
 ---
 
-# 📊 GitHub Stats
 
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=radical&hide_border=false"/>
-
-</p>
 --
 
 
