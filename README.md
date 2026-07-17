@@ -104,3 +104,36 @@ AI Engineer • Backend Developer • Machine Learning Enthusiast
 
 🚀 MLOps
 ```
+
+
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,tensorflow,pytorch,opencv,mysql,postgres,docker,linux,git,github,vscode"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=yasmineelsherif27-rgb&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&theme=react-dark"/>
+</p>
