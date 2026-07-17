@@ -124,11 +124,7 @@ I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about
 </p>
 
 
-
----
-
 # 🔥 GitHub Streak
-
 
 <p align="center">
 
