@@ -1,3 +1,4 @@
+<!-- ============================= -->
 <!--        PROFILE HEADER         -->
 <!-- ============================= -->
 
@@ -110,62 +111,3 @@ I enjoy building solutions that combine:
 Python
 C++
 JavaScript
-AI & Data Science
-NumPy
-Pandas
-Scikit-Learn
-TensorFlow
-PyTorch
-OpenCV
-Backend
-FastAPI
-Flask
-API Integration
-Database Design
-Tools
-Git & GitHub
-VS Code
-Jupyter Notebook
-Linux
-🚀 Featured Projects
-💳 Credit Card Fraud Detection
-
-Machine Learning system for detecting fraudulent transactions.
-
-Technologies:
-
-Python
-Pandas
-Scikit-Learn
-Logistic Regression
-Data Analysis
-🚦 IntelliTraffic AI
-
-AI-based smart traffic monitoring system.
-
-Technologies:
-
-Computer Vision
-YOLO
-OpenCV
-Raspberry Pi
-♻️ Smart Waste Reporting System
-
-AI-powered environmental solution for smart waste management.
-
-🏆 Experience & Leadership
-
-🚀 Huawei ICT Academy Trainee
-📍 Zagazig University
-
-👩‍💻 College Leader
-📍 Deep Dive Community
-
-🎯 AI & Innovation Competitions Participant
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=tokyonight"/> </p>
-📈 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&layout=compact&theme=tokyonight"/> </p>
-🤝 Connect With Me
-<p align="center"> <a href="https://github.com/yasmineelsherif27-rgb"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </p>
