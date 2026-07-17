@@ -91,58 +91,6 @@ My interests:
 
 ---
 
-# 🚀 Featured Projects
-
-
-## 💳 Credit Card Fraud Detection
-
-Machine Learning system for detecting fraudulent transactions.
-
-**Technologies:**
-
-`Python` `Pandas` `Scikit-Learn` `Logistic Regression`
-
-
----
-
-## 🚦 IntelliTraffic AI
-
-AI-based smart traffic monitoring system.
-
-**Technologies:**
-
-`YOLO` `OpenCV` `Computer Vision` `Raspberry Pi`
-
-
----
-
-## ♻️ Smart Waste Reporting System
-
-AI solution for smart waste management.
-
-
----
-
-# 🏆 Experience & Activities
-
-
-🎓 Computer Science Student - Zagazig University
-
-<br>
-
-🤖 Huawei ICT Academy Trainee
-
-<br>
-
-👩‍💻 College Leader @ Deep Dive Community
-
-<br>
-
-🚀 AI & Innovation Competitions Participant
-
-
-
----
 
 # 📊 GitHub Stats
 
@@ -222,18 +170,3 @@ AI solution for smart waste management.
 
 ---
 
-# 🌱 Currently Learning
-
-
-```text
-🧠 Advanced Deep Learning
-
-🤖 Generative AI
-
-💬 Large Language Models
-
-⚡ AI Agents
-
-⚙️ AI Backend Systems
-
-🚀 Model Deployment
