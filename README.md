@@ -1,417 +1,244 @@
 <!-- ============================= -->
-<!--         HEADER                -->
+<!--        HEADER SECTION         -->
 <!-- ============================= -->
 
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Yasmine%20Elsherif&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:9333EA&text=Yasmine%20Elsherif&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+
 <h1 align="center">
-Hi 👋 I'm Yasmine Elsherif
+  Hi 👋, I'm Yasmine Elsherif
 </h1>
 
 <h3 align="center">
-AI Engineer • Backend Developer • Machine Learning Enthusiast
+  AI Engineer | Backend Developer | Deep Learning Enthusiast
 </h3>
 
+
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Backend+Developer;Machine+Learning;Deep+Learning;FastAPI;Python+Developer;AI+Instructor"/>
+🎓 Computer Science Student @ Zagazig University  
+<br>
+🤖 Artificial Intelligence & Deep Learning Enthusiast  
+<br>
+💻 Backend Developer using Python & FastAPI  
+<br>
+🧠 Huawei ICT Academy Trainee - Zagazig University  
+<br>
+👩‍💻 College Leader in Deep Dive Community  
 
 </p>
 
+
 ---
 
-<table>
-<tr>
+## 🚀 About Me
 
-<td width="60%">
+I'm Yasmine Elsherif, an AI and Backend Developer passionate about building intelligent systems and real-world AI applications.
 
-# 👩‍💻 About Me
+Currently focusing on:
 
-🎓 Faculty of Computers and Information  
-**Zagazig University**
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Backend Development
+- AI-powered Applications
 
-🤖 AI & Backend Developer
 
-🐍 Python Developer
+I love transforming ideas into scalable solutions by combining:
 
-🧠 Machine Learning & Deep Learning Enthusiast
+**AI Models + Backend Systems + Real Applications**
 
-🚀 Core Member at **Deep Dive**
 
-👩‍🏫 AI Instructor at **Huawei ICT Academy – Zagazig University**
+---
 
-💼 AI Trainee at **Petrojet**
+# 🧠 AI & Machine Learning Skills
 
-⚡ Passionate about AI, Backend Development, and Intelligent Systems.
 
-📚 Currently Learning
+<p align="center">
 
-- AI Agents
-- LLMs
-- MLOps
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
+
+</p>
+
+
+---
+
+# ⚙️ Backend Development
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+
+---
+
+# 🛠 Tech Stack
+
+
+### Programming Languages
+
+- Python
+- C++
+- JavaScript
+
+
+### AI Libraries
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- OpenCV
+
+
+### Backend
+
 - FastAPI
-- Cloud Computing
+- Flask
+- API Integration
 
-</td>
 
-<td width="40%">
+### Tools
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="330">
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
 
-</td>
-
-</tr>
-</table>
 
 ---
 
-# 🌍 Connect With Me
+# 🚀 Featured Projects
+
+
+## 💳 Credit Card Fraud Detection
+
+Machine Learning project to detect fraudulent transactions using:
+
+- Data Analysis
+- Feature Engineering
+- Logistic Regression
+- Model Evaluation
+
+
+---
+
+## 🚦 IntelliTraffic AI
+
+AI-based traffic monitoring system using:
+
+- Computer Vision
+- YOLO
+- OpenCV
+- Raspberry Pi
+
+
+---
+
+## ♻️ Smart Waste Reporting System
+
+AI-powered system for smart waste management and environmental solutions.
+
+
+---
+
+# 🏆 Activities & Leadership
+
+
+- Huawei ICT Academy Member - Zagazig University
+
+- Deep Dive Community College Leader
+
+- Technical Team Member in University Activities
+
+- Participated in AI & Innovation Competitions
+
+
+---
+
+# 📊 GitHub Statistics
+
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yasmine-elsherif-b34b7b395/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=tokyonight"/>
 
-<a href="https://www.kaggle.com/yasmineelsherifff">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 📈 Most Used Languages
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🤝 Connect With Me
+
+
+<p align="center">
+
 
 <a href="https://github.com/yasmineelsherif27-rgb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+
 </a>
 
-</p>
 
----
+<a href="#">
 
-# 🚀 Current Focus
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🧩 Deep Learning
-- ⚡ FastAPI
-- 🌐 Backend APIs
-- ☁️ MLOps
-- 🐳 Docker
-- 🗄️ SQL Databases
-
-- <!-- ============================= -->
-<!--        TECH STACK             -->
-<!-- ============================= -->
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,tensorflow,pytorch,opencv,sklearn,mysql,postgres,docker,git,github,vscode,linux"/>
-
-</p>
-
----
-
-# 🤖 AI Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Science-9cf?style=for-the-badge"/>
-
-</p>
-
----
-
-# ⚙️ Backend Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/REST%20API-ff9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yasmineelsherif27-rgb&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🧠 Currently Learning
-
-```text
-✓ Artificial Intelligence
-✓ Machine Learning
-✓ Deep Learning
-✓ AI Agents
-✓ LLMs
-✓ FastAPI
-✓ Docker
-✓ MLOps
-✓ Cloud Computing
-✓ PostgreSQL
-```
-<!-- ============================= -->
-<!--        TECH STACK             -->
-<!-- ============================= -->
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,tensorflow,pytorch,opencv,sklearn,mysql,postgres,docker,git,github,vscode,linux"/>
-
-</p>
-
----
-
-# 🤖 AI Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Science-9cf?style=for-the-badge"/>
-
-</p>
-
----
-
-# ⚙️ Backend Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/REST%20API-ff9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yasmineelsherif27-rgb&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🧠 Currently Learning
-
-```text
-✓ Artificial Intelligence
-✓ Machine Learning
-✓ Deep Learning
-✓ AI Agents
-✓ LLMs
-✓ FastAPI
-✓ Docker
-✓ MLOps
-✓ Cloud Computing
-✓ PostgreSQL
-```
-
-<!-- ============================= -->
-<!--       FINAL SECTION           -->
-<!-- ============================= -->
-
-# 🐍 Contribution Snake
-
-> **The snake animation will work after adding the GitHub Action workflow.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-✔ Become an AI Engineer
-
-✔ Master Machine Learning & Deep Learning
-
-✔ Build Production AI Systems
-
-✔ Learn AI Agents & LLMs
-
-✔ Master FastAPI
-
-✔ Learn MLOps
-
-✔ Contribute to Open Source
-
-✔ Get an AI Internship
-
----
-
-# ❤️ Support My Work
-
-<p align="center">
-
-<a href="https://github.com/yasmineelsherif27-rgb?tab=repositories">
-<img src="https://img.shields.io/badge/⭐%20Star%20My%20Repositories-yellow?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/yasmineelsherif27-rgb">
-<img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
 
 </p>
 
----
-
-# 💬 Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
 
 ---
-
-# 📈 Coding Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmineelsherif27-rgb&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌍 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/yasmine-elsherif-b34b7b395/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/yasmineelsherifff">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yasmineelsherif27-rgb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h2 align="center">
-
-✨ Thanks for visiting my GitHub Profile ✨
-
-</h2>
 
 <h3 align="center">
 
-⭐ Keep Learning • Keep Building • Never Stop Exploring AI ⭐
+✨ Building Intelligent Systems With AI ✨
 
 </h3>
 
+
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
 </p>
-ر
