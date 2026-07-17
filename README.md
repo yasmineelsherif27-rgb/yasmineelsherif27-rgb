@@ -1,215 +1,177 @@
-<!-- ============================= -->
-<!--            HEADER             -->
-<!-- ============================= -->
-
-<table>
-<tr>
-
-<td width="65%">
-
-<h1>
-Hi 👋, I'm Yasmine Elsherif
-</h1>
-
-<h3>
-AI Engineer | Backend Developer | Deep Learning Enthusiast
-</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F3FBF&width=550&lines=Artificial+Intelligence+Engineer;Deep+Learning+Enthusiast;Backend+Developer;Building+AI+Powered+Solutions"/>
+# Hi There, I'm Yasmine Elsherif 👋
 
 
-<p>
+## About me 👨‍💻
 
-🎓 Computer Science Student @ Zagazig University  
-<br>
-🤖 Artificial Intelligence & Deep Learning Enthusiast  
-<br>
-💻 Backend Developer using Python & FastAPI  
-<br>
-🧠 Huawei ICT Academy Trainee  
-<br>
-👩‍💻 College Leader @ Deep Dive Community  
-
-</p>
-
-</td>
-
-
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="250"/>
-
-</td>
-
-</tr>
-</table>
-
+- 🎓 Computer Science Student at Faculty of Computers and Information - Zagazig University
+- 🤖 AI Engineer & Deep Learning Enthusiast
+- 💻 Backend Developer using Python and FastAPI
+- 🧠 Interested in Machine Learning, Deep Learning, Computer Vision and NLP
+- 🚀 Passionate about building intelligent systems and AI-powered applications
+- 🌱 Always learning new technologies and improving my skills
+- 🤝 Open to collaboration, internships, and AI projects
 
 
 ---
 
-# 👩‍💻 About Me
-
-
-I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about building intelligent systems and real-world AI applications.
-
-My interests:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 👁 Computer Vision
-- 💬 Natural Language Processing
-- ⚙️ Backend Engineering
-
-
----
-
-# 🛠 Tech Stack
+## Social links 📫
 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,tensorflow,pytorch,opencv,fastapi,flask,mysql,git,github,vscode"/>
+<a href="mailto:your-email">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yasmineelsherif27-rgb">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+
+---
+
+# Technologies that I work with ⚙️
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,fastapi,flask,tensorflow,pytorch,opencv,mysql,git,github,vscode"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=figma,postman,jupyter"/>
 
 </p>
 
 
-
 ---
 
-# 🚀 Featured Projects
+# Experience & Activities 🏆
 
 
-## 💳 Credit Card Fraud Detection
+### 🏢 Petrojet Internship
 
-Machine Learning system for detecting fraudulent transactions.
-
-**Technologies:**
-
-`Python` `Pandas` `Scikit-Learn` `Logistic Regression`
-
-
----
-
-## 🚦 IntelliTraffic AI
-
-AI-based smart traffic monitoring system.
-
-**Technologies:**
-
-`YOLO` `OpenCV` `Computer Vision` `Raspberry Pi`
+- Completed an internship at **Petrojet**.
+- Gained practical experience in a professional work environment.
+- Learned about engineering workflows, teamwork, and project-based problem solving.
+- Improved communication skills and understanding of industry standards.
 
 
 ---
 
-## ♻️ Smart Waste Reporting System
+### 🤖 Huawei ICT Academy Trainee - Zagazig University
 
-AI solution for smart waste management.
+- Participating in Huawei ICT Academy programs.
+- Developing technical skills in modern technologies and Artificial Intelligence.
 
 
 ---
 
-# 🏆 Experience & Activities
+### 👩‍💻 Deep Dive Community - College Leader
+
+- Supporting technical activities and teamwork.
+- Helping organize learning activities and community initiatives.
 
 
-🎓 Computer Science Student - Zagazig University
+---
+
+### 🎯 AI & Innovation Activities
+
+- Participated in AI and technology-related competitions.
+- Interested in developing innovative solutions using Artificial Intelligence.
+
+
+
+---
+
+# Projects 🚀
+
+
+### 🤖 AI Projects
+
+Building intelligent applications using:
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+
+
+---
+
+### ⚙️ Backend Applications
+
+Developing backend systems using:
+
+- Python
+- FastAPI
+- REST APIs
+- Database Integration
+
+
+---
+
+### 🌐 AI Powered Applications
+
+Creating solutions that combine:
+
+- AI Models
+- Backend Systems
+- Real-world Applications
+
+
+
+---
+
+
+# GitHub Stats 📊
+
+
+<p align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&layout=compact"/>
+
 
 <br>
 
-🤖 Huawei ICT Academy Trainee
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical&background=0D1117"/>
+
 
 <br>
 
-👩‍💻 College Leader @ Deep Dive Community
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=radical"/>
 
-🚀 AI & Innovation Competitions Participant
-
-
-
----
-
-# 📊 GitHub Stats
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&theme=radical&show_icons=true&hide_border=false"/>
 
 </p>
 
 
-
 ---
 
-# 🔥 GitHub Streak
+# GitHub Activity Graph 📈
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical&border=7F3FBF&background=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true"/>
 
 </p>
 
 
-
 ---
 
-# 💻 Most Used Languages
-
-
-<p align="center">
-
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
-
-</p>
-
-
-
----
-
-# 👤 Profile Details
-
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmineelsherif27-rgb&theme=radical"/>
-
-</p>
-
-
-
----
-
-# 📈 GitHub Activity Graph
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&custom_title=Yasmine%20Elsherif%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&title_color=FFFFFF"/>
-
-</p>
-
-
-
----
-
-# 🐍 Contribution Snake
+# 🐍 GitHub Contribution Snake
 
 
 <p align="center">
@@ -219,21 +181,29 @@ AI solution for smart waste management.
 </p>
 
 
+---
+
+# Pinned Projects 📌
+
+
+<a href="https://github.com/yasmineelsherif27-rgb">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yasmineelsherif27-rgb&repo=CreditCardFraudDetection&theme=radical"/>
+
+</a>
+
+
+<a href="https://github.com/yasmineelsherif27-rgb">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yasmineelsherif27-rgb&repo=IntelliTraffic-AI&theme=radical"/>
+
+</a>
+
 
 ---
 
-# 🌱 Currently Learning
+<div align="center">
 
+✨ Building Intelligent Systems With AI ✨
 
-```text
-🧠 Advanced Deep Learning
-
-🤖 Generative AI
-
-💬 Large Language Models
-
-⚡ AI Agents
-
-⚙️ AI Backend Systems
-
-🚀 Model Deployment
+</div>
