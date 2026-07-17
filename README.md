@@ -120,8 +120,6 @@ I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&show_icons=true&theme=radical&hide_border=false"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical&hide_border=false"/>
-
 </p>
 --
 # 🔥 GitHub Streak & # 💻 Most Used Languages  
