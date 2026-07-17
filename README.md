@@ -2,10 +2,6 @@
 <!--            HEADER             -->
 <!-- ============================= -->
 
-<table>
-<tr>
-
-<td width="65%">
 
 <h1>
 Hi 👋, I'm Yasmine Elsherif
@@ -83,18 +79,9 @@ I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about
 ### 🎯 AI & Innovation Activities
 
 - Participated in AI and technology-related competitions.
-- Interested in developing innovative solutions using Artificial Intelligence.
-
----
-
-# 🛠 Tech Stack
+- Interested in developing innovative solutions using Artificial Intelligenc
 
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,tensorflow,pytorch,opencv,fastapi,flask,mysql,git,github,vscode"/>
-
-</p>
 
 
 <p align="center">
@@ -175,11 +162,6 @@ I am **Yasmine Elsherif**, an AI Engineer and Backend Developer passionate about
 
 </p>
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 ---
 
