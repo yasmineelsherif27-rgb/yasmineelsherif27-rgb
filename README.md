@@ -110,23 +110,6 @@ Interested in:
 </a>
 
 </p>
-
-
-# 🔥 GitHub Streak & # 💻 Most Used Languages  
-
-
-<p align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical&border=7F3FBF&background=0D1117"/>
-
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
-
-</p>
-
-
-
----
 ## ⚙️ Technologies & Tools
 
 <p align="center">
@@ -150,6 +133,23 @@ Interested in:
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
 </p>
+
+# 🔥 GitHub Streak & # 💻 Most Used Languages  
+
+
+<p align="center">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical&border=7F3FBF&background=0D1117"/>
+
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
+
+</p>
+
+
+
+---
+
 
 # 👤 Profile Details
 
