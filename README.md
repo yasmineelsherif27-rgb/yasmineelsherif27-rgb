@@ -11,7 +11,7 @@ Hi 👋, I'm Yasmine Elsherif
 </h1>
 
 <h3>
-AI Engineer | Backend Developer | Deep Learning Enthusiast
+AI Engineer | Backend Developer | 
 </h3>
 
 <p>
