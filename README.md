@@ -110,7 +110,7 @@ Interested in:
 </a>
 
 </p>
-## ⚙️ Technologies & Tools
+⚙️ Technologies & Tools
 
 <p align="center">
 
