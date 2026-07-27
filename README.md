@@ -7,7 +7,7 @@
 
 # Hi There, I'm Yasmine Elsherif 👋
 
-### AI Engineer | Backend Developer | Machine Learning Enthusiast
+### AI Engineer | Backend Developer 
 
 
 ## 👩‍💻 About Me
