@@ -1,10 +1,9 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6A5ACD&height=220&section=header&text=Yasmine%20Elsherif&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
 
-<img align="right" src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/main/github-profile.png" width="30%">
 
+<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<h1>
+   
 
 # Hi There, I'm Yasmine Elsherif 👋
 
@@ -111,48 +110,25 @@
 </p>
 
 
-### 💳 Credit Card Fraud Detection
-Machine Learning Project using:
-- Python
-- Pandas
-- Scikit-learn
-- Logistic Regression
-- Data Analysis
-
-
-### 🚦 IntelliTraffic AI
-Computer Vision System using:
-- YOLO
-- OpenCV
-- AI Models
-
-
-
-## 📊 GitHub Statistics
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&layout=compact"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&theme=radical&show_icons=true"/>
-
-</p>
-
+<div  align="center"> 
+   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Eng-Mohamed-Raya&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" alt="Top Langs"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mohamed-Raya&theme=radical&border=7F3FBF&background=0D1117" alt="Mohamed Yasser GitHub streak" height="166px"/>
+</div>
+<br/>
+<div align="center">    
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Mohamed-Raya&theme=radical" alt="Mohamed Yasser Raya GitHub Contribution"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Raya&theme=radical&border=7F3FBF&background=0D1117&show_icons=true" alt="GitHub stats"/>
+</div>
+<br/>
 
 
 ## 📈 GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&theme=react-dark"/>
 
+### 🦊 Open Source Contributions
 
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/yasmineelsherif48/banner.svg)](https://contributors.gitlab.com/users/yasmineelsherif48)
 
 ## 🐍 Contribution Snake
 
