@@ -1,5 +1,9 @@
 ---
+<img align="right" src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/main/github-profile.png" width="30%">
 
+# Hi There, I'm Yasmine Elsherif 👋
+
+### AI Engineer | Backend Developer
 <details>
 <summary>🤖 AI & Backend Journey</summary>
 
