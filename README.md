@@ -97,28 +97,7 @@
 
 
 
-## 🚀 Featured Projects
 
-
-<p align="center">
-
-<img src="https://via.placeholder.com/500x250.png?text=Credit+Card+Fraud+Detection" width="45%"/>
-
-<img src="https://via.placeholder.com/500x250.png?text=IntelliTraffic+AI" width="45%"/>
-
-
-</p>
-
-
-<div  align="center"> 
-   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Eng-Mohamed-Raya&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" alt="Top Langs"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Mohamed-Raya&theme=radical&border=7F3FBF&background=0D1117" alt="Mohamed Yasser GitHub streak" height="166px"/>
-</div>
-<br/>
-<div align="center">    
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Mohamed-Raya&theme=radical" alt="Mohamed Yasser Raya GitHub Contribution"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Raya&theme=radical&border=7F3FBF&background=0D1117&show_icons=true" alt="GitHub stats"/>
-</div>
 <br/>
 
 
