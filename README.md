@@ -4,6 +4,7 @@
 # Hi There, I'm Yasmine Elsherif 👋
 
 ### AI Engineer | Backend Developer
+---
 <details>
 <summary>🤖 AI & Backend Journey</summary>
 
