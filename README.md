@@ -1,143 +1,171 @@
-<img align="right" src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/main/github-profile.png" width="30%">
-
-<h1>
-  Hi There, I'm Yasmine Elsherif
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<p>
-AI Engineer | Backend Developer | Machine Learning Enthusiast
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6A5ACD&height=220&section=header&text=Yasmine%20Elsherif&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
-<h3>About me 👩‍💻</h3>
-
-- Computer Science Student at Faculty of Computers and Information - Zagazig University.
-- AI Engineer passionate about building intelligent systems and AI-powered applications.
-- Backend Developer focused on Python, FastAPI, and scalable APIs.
-- Interested in Machine Learning, Deep Learning, Computer Vision, NLP, and AI Agents.
-- AI Intern @ Petrojet.
-- Huawei ICT Academy Trainee.
-- College Leader @ Deep Dive Community.
-- Passionate about problem solving, teamwork, leadership, and continuous learning.
-- Open to collaboration, internships, and innovative AI projects.
+<img align="right" src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/main/github-profile.png" width="30%">
 
 
-<h3>Social links 📫</h3>
+# Hi There, I'm Yasmine Elsherif 👋
 
-<br/>
+### AI Engineer | Backend Developer | Machine Learning Enthusiast
 
-<div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"/>
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Student at Faculty of Computers and Information - Zagazig University.
+- 🤖 AI Engineer passionate about building intelligent systems and AI-powered applications.
+- ⚙️ Backend Developer focused on Python, FastAPI, and scalable APIs.
+- 🧠 Interested in Machine Learning, Deep Learning, Computer Vision, NLP & AI Agents.
+- 💼 AI Intern @ Petrojet.
+- 🎓 Huawei ICT Academy Trainee.
+- 👩‍💻 College Leader @ Deep Dive Community.
+- 🚀 Passionate about Problem Solving and building innovative solutions.
+- 🤝 Open for collaborations, internships, and AI projects.
+
+
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:nadaelsherif089@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yasmine-elsherif-b34b7b395/">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yasmineelsherif27-rgb">
-<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.kaggle.com/yasmineelsherifff">
-<img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 
-<h3>Technologies that I work with ⚙️</h3>
 
-<br/>
-
-<div align="center">
-
-<!-- Programming -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" title="Python"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" title="C++"/>
-<img width="12"/>
-
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="70" title="FastAPI"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" title="Git"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" title="GitHub"/>
-<img width="12"/>
-
-<!-- AI -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="70" title="TensorFlow"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="70" title="PyTorch"/>
-
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="70" title="OpenCV"/>
+## ⚙️ Technologies & Tools
 
 
-<!-- Tools -->
+<p align="center">
 
-<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="65"/>
 
-<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="65"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="65"/>
 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="65"/>
+
+</p>
 
 
-<h3>AI & Backend Skills 🚀</h3>
 
-<div align="center">
+## 🚀 AI & Backend Skills
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/AI%20Agents-red?style=for-the-badge"/>
 
-</div>
+</p>
 
 
-<br/>
 
-<div align="center">
+## 🚀 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&hide_border=false&layout=compact"/>
+
+<p align="center">
+
+<img src="https://via.placeholder.com/500x250.png?text=Credit+Card+Fraud+Detection" width="45%"/>
+
+<img src="https://via.placeholder.com/500x250.png?text=IntelliTraffic+AI" width="45%"/>
+
+
+</p>
+
+
+### 💳 Credit Card Fraud Detection
+Machine Learning Project using:
+- Python
+- Pandas
+- Scikit-learn
+- Logistic Regression
+- Data Analysis
+
+
+### 🚦 IntelliTraffic AI
+Computer Vision System using:
+- YOLO
+- OpenCV
+- AI Models
+
+
+
+## 📊 GitHub Statistics
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&layout=compact"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical"/>
 
-</div>
+</p>
 
 
-<br/>
-
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&theme=radical&show_icons=true"/>
 
-</div>
+</p>
 
 
-<br/>
 
-![Yasmine GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&theme=react-dark)
+## 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&theme=react-dark"/>
 
 
-<br/>
+
+## 🐍 Contribution Snake
+
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+
+</p>
+
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
 
 </p>
