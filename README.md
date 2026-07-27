@@ -1,194 +1,74 @@
-## 🧠 AI Engineer Portfolio
+---
 
 <details>
-<summary>🤖 About Me</summary>
+<summary>🤖 AI & Backend Journey</summary>
 
-### 👋 Hello, I'm **Yasmine Elsherif**
+### 👩‍💻 About Me
 
-- 🎓 Computer Science Student @ Zagazig University
+- 🎓 Computer Science Student at Faculty of Computers and Information - Zagazig University.
+- 🤖 AI Engineer passionate about building intelligent systems and AI-powered applications.
+- ⚙️ Backend Developer focused on Python, FastAPI, and scalable APIs.
+- 🧠 Interested in Machine Learning, Deep Learning, Computer Vision, NLP, AI Agents & LLMs.
+- 💼 AI Intern @ Petrojet.
+- 🎓 Huawei ICT Academy Trainee.
+- 👩‍💻 College Leader @ Deep Dive Community.
+- 🚀 Passionate about Open Source, Problem Solving, and AI Research.
+
+### 🌐 Useful Links
+
+- 🌍 Portfolio (Coming Soon)
+- 💼 LinkedIn: https://www.linkedin.com/in/yasmine-elsherif-b34b7b395/
+- 💻 GitHub: https://github.com/yasmineelsherif27-rgb
+- 📊 Kaggle: https://www.kaggle.com/yasmineelsherifff
+- 🧩 LeetCode: https://leetcode.com/u/YASMINE_ELSHERIF6/
+
+</details>
+
+<details>
+<summary>🚀 Current Learning Journey</summary>
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
+- 🤖 AI Agents & LLMs
+- ⚡ FastAPI
+- 🐍 Python Backend Development
+- ☁️ Docker & GitHub Actions
+- 📦 MLOps Basics
+
+</details>
+
+<details>
+<summary>🏆 Experience & Leadership</summary>
+
 - 💼 AI Intern @ Petrojet
 - 🎓 Huawei ICT Academy Trainee
 - 👩‍💻 College Leader @ Deep Dive Community
-- 🚀 AI Engineer & Backend Developer
 - 🌍 Open Source Contributor
-
-📌 Portfolio
-
-- 🔗 GitHub
-  https://github.com/yasmineelsherif27-rgb
-
-- 💼 LinkedIn
-  https://www.linkedin.com/in/yasmine-elsherif-b34b7b395/
-
-- 📊 Kaggle
-  https://www.kaggle.com/yasmineelsherifff
+- 💡 Building AI & Backend Projects
 
 </details>
-
----
 
 <details>
-<summary>⚙️ AI Tech Stack</summary>
+<summary>📚 Certifications & Activities</summary>
 
-### Languages
-
-```txt
-Python
-C++
-SQL
-```
-
-### AI
-
-```txt
-Machine Learning
-Deep Learning
-Computer Vision
-Natural Language Processing
-AI Agents
-Large Language Models
-```
-
-### Backend
-
-```txt
-FastAPI
-REST APIs
-Docker
-Git
-Linux
-```
+- 🏅 Huawei ICT Academy
+- 🤖 AI & Machine Learning Courses
+- 💻 Problem Solving
+- 🌍 Open Source Contributions
+- 🚀 Hackathons & Technical Events
 
 </details>
-
----
-
-<details>
-<summary>💼 Experience</summary>
-
-## Petrojet
-
-```text
-Position:
-AI Intern
-
-Focus:
-• Machine Learning
-• Data Analysis
-• AI Solutions
-```
-
----
-
-## Huawei ICT Academy
-
-```text
-Track:
-Artificial Intelligence
-
-Skills:
-Python
-AI
-Cloud Fundamentals
-```
-
----
-
-## Deep Dive Community
-
-```text
-Role:
-College Leader
-
-Responsibilities:
-• Organizing Technical Sessions
-• Supporting Students
-• Community Building
-```
-
-</details>
-
----
-
-<details>
-<summary>🚀 Current Learning Roadmap</summary>
-
-```txt
-✔ Machine Learning
-✔ Deep Learning
-✔ Computer Vision
-✔ NLP
-✔ FastAPI
-✔ Docker
-⬜ Kubernetes
-⬜ MLOps
-⬜ System Design
-⬜ AWS
-```
-
-</details>
-
----
-
-<details>
-<summary>🧩 Open Source Journey</summary>
-
-### My Open Source Profiles
-
-🐙 GitHub
-
-https://github.com/yasmineelsherif27-rgb
-
-🦊 GitLab
-
-https://gitlab.com/yasmineelsherif48
-
-🏆 First Merged Pull Request
-
-Tracer Cloud - OpenSRE
-
-Status:
-✅ Merged Successfully
-
-</details>
-
----
 
 <details>
 <summary>🎯 2026 Goals</summary>
 
-```txt
-✓ Become AI Backend Engineer
-✓ 50+ Open Source Contributions
-✓ Build Production AI Projects
-✓ Learn Kubernetes
-✓ Learn MLOps
-✓ Master FastAPI
-✓ Participate in ICPC
-✓ Publish AI Research Projects
-```
-
-</details>
-
----
-
-<details>
-<summary>📫 Contact Me</summary>
-
-📧 Email
-
-nadaelsherif089@gmail.com
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/yasmine-elsherif-b34b7b395/
-
-🐙 GitHub
-
-https://github.com/yasmineelsherif27-rgb
-
-📊 Kaggle
-
-https://www.kaggle.com/yasmineelsherifff
+- ✅ Become AI Engineer
+- ✅ Become Backend Developer
+- ✅ Contribute to Open Source Projects
+- ✅ Build AI Agents
+- ✅ Learn MLOps
+- ✅ Land a Full-Time AI Role
 
 </details>
