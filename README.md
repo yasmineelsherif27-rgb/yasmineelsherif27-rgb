@@ -1,195 +1,143 @@
-<!-- ============================= -->
-<!--            HEADER             -->
-<!-- ============================= -->
-<table>
-<tr>
-
-<td width="70%">
+<img align="right" src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/main/github-profile.png" width="30%">
 
 <h1>
-Hi 👋, I'm Yasmine Elsherif
+  Hi There, I'm Yasmine Elsherif
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3>
-AI Engineer | Backend Developer | 
-</h3>
-
 <p>
-
-🎓 Computer Science Student @ Zagazig University  
-<br>
-🤖 AI & Deep Learning Enthusiast  
-<br>
-💻 Backend Developer using Python & FastAPI  
-<br>
-🧠 Huawei ICT Academy Trainee  
-<br>
-👩‍💻 College Leader @ Deep Dive Community  
-
+AI Engineer | Backend Developer | Machine Learning Enthusiast
 </p>
 
-</td>
+
+<h3>About me 👩‍💻</h3>
+
+- Computer Science Student at Faculty of Computers and Information - Zagazig University.
+- AI Engineer passionate about building intelligent systems and AI-powered applications.
+- Backend Developer focused on Python, FastAPI, and scalable APIs.
+- Interested in Machine Learning, Deep Learning, Computer Vision, NLP, and AI Agents.
+- AI Intern @ Petrojet.
+- Huawei ICT Academy Trainee.
+- College Leader @ Deep Dive Community.
+- Passionate about problem solving, teamwork, leadership, and continuous learning.
+- Open to collaboration, internships, and innovative AI projects.
 
 
-<td width="30%" align="center">
+<h3>Social links 📫</h3>
 
-<img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="180"/>
+<br/>
 
-</td>
+<div align="center">
 
-
-</tr>
-</table>
-
-
----
-
-## About Me 👩‍💻
-
-AI Engineer and Backend Developer passionate about building intelligent systems and AI-powered applications.
-
-Interested in:
-- Machine Learning & Deep Learning
-- Computer Vision & NLP
-- Backend Systems & AI Integration
-
-
----
-
-## Experience & Activities 🏆
-
-
-### 🏢 Petrojet Internship
-
-- Gained practical experience in a professional work environment.
-- Learned teamwork, communication, and real-world project workflows.
-
-
-### 🤖 Huawei ICT Academy Trainee
-
-- Developing skills in Artificial Intelligence and modern technologies.
-
-
-### 👩‍💻 Deep Dive Community - College Leader
-
-- Supporting technical activities and teamwork.
-- Developing leadership and communication skills.
-
-
---
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yasmine-elsherif-b34b7b395/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/yasmineelsherif27-rgb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://gitlab.com/yasmineelsherif48">
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge"/>
 </a>
 
 <a href="https://www.kaggle.com/yasmineelsherifff">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge"/>
 </a>
 
-<a href="https://leetcode.com/u/YASMINE_ELSHERIF6/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://www.hackerrank.com/profile/nadaelsherif089">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
 
-</p>
-⚙️ Technologies & Tools
+<h3>Technologies that I work with ⚙️</h3>
+
+<br/>
+
+<div align="center">
+
+<!-- Programming -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" title="Python"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" title="C++"/>
+<img width="12"/>
+
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="70" title="FastAPI"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" title="Git"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" title="GitHub"/>
+<img width="12"/>
+
+<!-- AI -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="70" title="TensorFlow"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="70" title="PyTorch"/>
+
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="70" title="OpenCV"/>
+
+
+<!-- Tools -->
+
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" title="Docker"/>
+
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" title="VS Code"/>
+
+</div>
+
+
+<h3>AI & Backend Skills 🚀</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-red?style=for-the-badge"/>
+
+</div>
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&hide_border=false&layout=compact"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical"/>
+
+</div>
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yasmineelsherif27-rgb&theme=radical&show_icons=true"/>
+
+</div>
+
+
+<br/>
+
+![Yasmine GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&theme=react-dark)
+
+
+<br/>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css,fastapi,flask,django,mysql,sqlite,tensorflow,pytorch,opencv,git,github,gitlab,linux,vscode,postman"/>
+<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
 
 </p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-
-</p>
-
-# 🔥 GitHub Streak & # 💻 Most Used Languages  
-
-
-<p align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmineelsherif27-rgb&theme=radical&border=7F3FBF&background=0D1117"/>
-
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=yasmineelsherif27-rgb&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
-
-</p>
-
-
-
----
-
-
-# 👤 Profile Details
-
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmineelsherif27-rgb&theme=radical"/>
-
-</p>
-
-
-
----
-
-# 📈 GitHub Activity Graph
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmineelsherif27-rgb&custom_title=Yasmine%20Elsherif%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&title_color=FFFFFF"/>
-
-</p>
-
-
-
----
-# 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&isocalendar=1&languages=1&followup=1&activity=1&introduction=1&achievements=1&lines=1&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Africa%2FCairo" />
-</p>
-# 🐍 Contribution Snake
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/yasmineelsherif27-rgb/yasmineelsherif27-rgb/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-
----
-
