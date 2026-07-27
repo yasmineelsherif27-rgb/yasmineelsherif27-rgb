@@ -176,7 +176,11 @@ Interested in:
 
 
 ---
+# 📊 GitHub Metrics
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&isocalendar=1&languages=1&followup=1&activity=1&introduction=1&achievements=1&lines=1&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Africa%2FCairo" />
+</p>
 # 🐍 Contribution Snake
 
 
