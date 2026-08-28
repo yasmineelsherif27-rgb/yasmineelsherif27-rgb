@@ -13,7 +13,6 @@ Zagazig, Egypt 🇪🇬 · Computer Science Student · ECPC Finalist
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/yasmineelsherif27-rgb)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Yassmine__elsheriff86-1F8ACB?style=flat-square\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/Yassmine_elsheriff86)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://yasmineelsherif27-rgb.github.io)
 
